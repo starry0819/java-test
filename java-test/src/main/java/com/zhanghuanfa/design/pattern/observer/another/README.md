@@ -1,0 +1,3 @@
+基于java.util工具包下的Observable和Observer实现的观察者模式
+
+这种方式有一定的局限性, 因为Observer是一个类, 使用继承会造成其他需要继承的功能无法扩展
